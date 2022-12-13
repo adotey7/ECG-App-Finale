@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547184390356",
+    "project_id": "ecg-app-1b736",
+    "storage_bucket": "ecg-app-1b736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547184390356:android:95b36dbcb88d7e2eebcb41",
+        "android_client_info": {
+          "package_name": "com.example.ecg_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547184390356-7pd6bj7cs1iufri9iej3lfgfvnpgfjvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt7h7IWwMhA9DbumgYAHPYoBPzsejqYn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547184390356-7pd6bj7cs1iufri9iej3lfgfvnpgfjvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
